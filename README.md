@@ -12,8 +12,8 @@ Focusly is a productivity application designed to help students and learners tra
 
 ## Screenshots
 <img width="1048" height="883" alt="image" src="https://github.com/user-attachments/assets/d7efb715-0a62-4742-9823-57cc5bc8f957" />
+<img width="1347" height="846" alt="image" src="https://github.com/user-attachments/assets/2b842856-e70c-4c7a-9a7e-2f259680ad8c" />
 <img width="1430" height="772" alt="image" src="https://github.com/user-attachments/assets/06f1fada-47a9-4e54-ad2b-16b182280fe0" />
-<img width="1292" height="826" alt="image" src="https://github.com/user-attachments/assets/9aeb0e55-99ad-4a7c-a5a8-354b9c4a2601" />
 <img width="1156" height="770" alt="image" src="https://github.com/user-attachments/assets/14b61b0d-df26-42fd-9193-d24843aa1258" />
 
 ## Demo 
