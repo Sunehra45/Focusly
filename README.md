@@ -100,8 +100,10 @@ src/
 ```
 
 ## Future Improvements
-- Build a supporting chrome extension allowing users to work in pomdoros & syncing data with app. (In development)
-- Make timer state persist across navigation.
-- Add streaks feature.
-- Add CI/CD pipeline.
+- Build a supporting Chrome extension to enable Pomodoro tracking and sync focus sessions with the main application.
+- Improve session reliability by persisting timer state across navigation and refresh events
+- Introduce streaks and long-term productivity tracking features to enhance user engagement
+- Add automated testing using Jest and React Testing Library to improve code reliability and maintainability
+- Implement CI/CD pipelines using GitHub Actions for automated testing and deployment workflows
+- Containerize the application using Docker to improve development consistency and deployment portability
 
