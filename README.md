@@ -1,8 +1,5 @@
-(Note : Deployed app link & app code will be updated the following week)
 ## Live Demo
-
-🔗 Coming Soon
-
+<a href="https://example.com](https://productivityapp-delta.vercel.app/home" target="_blank">Visit Focuso</a>
 ## Focuso
 Focuso helps users track focus sessions, analyze productivity trends, and build consistent study habits.
 
